@@ -11,6 +11,7 @@ _<a href="https://free.modao.cc/app/62dd5da8ab8aa2ed5bf420cff174e016acff00cf" ta
 
 **哔哩哔哩视频学习列表：**
 * 第一讲：**底部导航栏设置**  _<a href="https://www.bilibili.com/video/av47934558" target="_blank"> 立即观看</a>_ 
+* 第二讲：**个人中心布局实现**  _<a href="https://www.bilibili.com/video/av79743795/" target="_blank"> 立即观看</a>_ 
 ****
 **感谢您的支持**
 > 非常感谢您的支持，**我一定不会辜负您的期望**，一定会坚持下去，做出精品的教程！让更多的朋友能够学到实用的知识，让更多人的朋友从事互联网行业，让更多人的朋友赢取更高的薪资待遇！
