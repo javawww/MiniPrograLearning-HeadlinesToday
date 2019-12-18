@@ -1,0 +1,3 @@
+<!--pages/wode/index.wxml-->
+<text>我的</text>
+<button bindtap='onRefresh'>刷新</button>
