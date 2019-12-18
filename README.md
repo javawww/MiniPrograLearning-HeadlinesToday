@@ -14,4 +14,4 @@ _<a href="https://free.modao.cc/app/62dd5da8ab8aa2ed5bf420cff174e016acff00cf" ta
 ****
 **感谢您的支持**
 > 非常感谢您的支持，**我一定不会辜负您的期望**，一定会坚持下去，做出精品的教程！让更多的朋友能够学到实用的知识，让更多人的朋友从事互联网行业，让更多人的朋友赢取更高的薪资待遇！
-![赞助我](https://raw.githubusercontent.com/javawww/MiniPrograLearning-HeadlinesToday/master/img/SponsorAuthor/ThankYouSupportMe.jpg)
+![赞助我](https://i.ibb.co/Tm0Qt9Z/Thank-You-Support-Me.jpg)

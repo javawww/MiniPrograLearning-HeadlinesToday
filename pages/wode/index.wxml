@@ -1,3 +1,118 @@
-<!--pages/wode/index.wxml-->
-<text>我的</text>
-<button bindtap='onRefresh'>刷新</button>
+
+<!-- 第一部分    -->
+<view class="box bgclr3e clrff pad20">
+  <view>
+    <image class="avatar" src="/img/avatar.jpg"></image>
+  </view>
+  <view>Emma</view>
+  <view>
+    <image class="arrow" src="/img/RightArrow.png"></image>
+  </view>
+</view>
+
+<!-- 第二部分 -->
+<view class="box bgclr3e clrff part2 pad20 font32">
+  <view class="block2">
+    <view>0</view>
+    <view>动态</view>
+  </view>
+
+  <view class="block2">
+    <view>0</view>
+    <view>粉丝</view>
+  </view>
+
+  <view class="">
+    <view>0</view>
+    <view>7天访客</view>
+  </view>
+</view>
+
+<!-- 第三部分 -->
+<view class="box bgclrwhite pad20 font32">
+  <view class="block3">
+    <view>
+      <image class="img3" src="/img/Start.png"></image>
+    </view>
+    <view>收藏</view>
+  </view>
+
+  <view class="block3">
+    <view>
+      <image class="img3" src="/img/History.png"></image>
+    </view>
+    <view>历史</view>
+  </view>
+
+  <view class="block3">
+    <view>
+      <image class="img3" src="/img/Moon.png"></image>
+    </view>
+    <view>夜间</view>
+  </view>
+</view>
+
+<!-- 第四部分 -->
+<view class="box bgclrwhite part4 pad20 font32">
+  <view class="block4">
+    <view>
+      消息通知
+    </view>
+  </view>
+  <view>
+    <image class="arrow" src="/img/RightArrowGray.png"></image>
+  </view>
+</view>
+
+<!-- 第五部分 -->
+<view class="box bgclrwhite part5 pad20 font32">
+  <view class="block5">
+    <view>
+      头条商城
+    </view>
+  </view>
+  <view>
+    <text>邀请好友得200元现金奖励</text>
+    <image class="arrow" src="/img/RightArrowGray.png"></image>
+  </view>
+
+  <view class="block5">
+    <view>
+      京东特供
+    </view>
+  </view>
+  <view>
+    <text>新人领188元红包</text>
+    <image class="arrow" src="/img/RightArrowGray.png"></image>
+  </view>
+</view>
+
+<!-- 第六部分 -->
+<view class="box bgclrwhite part6 pad20 font32">
+  <view class="block6">
+    <view>
+      我要爆料
+    </view>
+  </view>
+  <view>
+    <image class="arrow" src="/img/RightArrowGray.png"></image>
+  </view>
+
+  <view class="block6">
+    <view>
+      用户反馈
+    </view>
+  </view>
+  <view>
+    <image class="arrow" src="/img/RightArrowGray.png"></image>
+  </view>
+
+  <view class="block6">
+    <view>
+      系统设置
+    </view>
+  </view>
+  <view>
+    <image class="arrow" src="/img/RightArrowGray.png"></image>
+  </view>
+</view>

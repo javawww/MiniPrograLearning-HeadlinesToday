@@ -1,1 +1,101 @@
-/* pages/wode/index.wxss */
+page{
+  background-color: rgba(244, 245, 246, 1);
+}
+.box{
+  /**
+  flex 属性用于设置或检索弹性盒模型对象的子元素如何分配空间。
+  */
+  display: flex;
+
+  /* 
+  row（默认值）：主轴为水平方向，起点在左端。
+row-reverse：主轴为水平方向，起点在右端。
+column：主轴为垂直方向，起点在上沿。
+column-reverse：主轴为垂直方向，起点在下沿。
+   */
+  flex-direction: row;
+
+/**
+flex-wrap属性
+默认情况下，项目都排在一条线（又称"轴线"）上。flex-wrap属性定义，如果一条轴线排不下，如何换行
+nowrap | wrap | wrap-reverse;
+*/
+flex-wrap: wrap;
+  /**
+  justify-content属性定义了项目在主轴上的对齐方式。
+  flex-start | flex-end | center | space-between | space-around;
+  */
+  justify-content:space-between;
+
+  /**
+  align-items属性定义项目在交叉轴上如何对齐。
+  flex-start | flex-end | center | baseline | stretch;
+  */
+  align-items:center;
+
+  /**
+  align-content属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。
+  flex-start | flex-end | center | space-between | space-around | stretch;
+  */
+  align-content: center;
+}
+
+.clrff{
+  color: #fff;
+}
+.pad20{
+  padding: 20rpx;
+}
+.font32{
+  font-size: 32rpx;
+}
+.bgclr3e{
+  background-color: #3E3E3E;
+}
+
+.bgclrwhite{
+  background-color: white;
+}
+
+.avatar{
+  height: 150rpx;
+  width: 150rpx;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+.arrow{
+  width: 80rpx;
+  height: 80rpx;
+  vertical-align: middle;
+}
+
+
+.part2{
+  padding-top: 40rpx;
+  padding-bottom: 40rpx;
+}
+
+.block2{
+  border-right: 1px solid white;
+  padding-right: 80rpx;
+}
+
+
+.img3{
+  width: 80rpx;
+  height: 60rpx;
+}
+
+.part4{  
+  margin-top: 30rpx;
+}
+.part5{
+  margin-top: 30rpx;
+}
+.part6{
+  margin-top: 30rpx;
+}
+
+.block6{
+  width: 620rpx;
+}
